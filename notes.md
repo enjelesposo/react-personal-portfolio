@@ -9,7 +9,9 @@
 - **Projects?**
 - **Contact**
   - Emailing system
-  - Social Links w/ email add.
+  - Phone no.
+  - Email add.
+  - Social Links
 - **Global**
   - Nav bar
   - Footer
