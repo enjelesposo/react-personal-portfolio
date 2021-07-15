@@ -1,9 +1,19 @@
 ### Pages
-- **Home**	
-- About
-- Projects?
-- Contact
+- **Home**
+  - Header
+  - Social Links
+- **About**
+  - Profile Summary
+  - Skills
+  - CV
+- **Projects?**
+- **Contact**
+  - Emailing system
+  - Social Links w/ email add.
+- **Global**
+  - Nav bar
+  - Footer
 
 
-workflow
-components ---> containers ---> pages ----> app
+### Workflow
+components ---> styles ---> containers ---> pages ----> app
